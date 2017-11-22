@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\lab33\lab33\bin\Debug\lab33.exe.config
+c:\users\user\documents\visual studio 2017\Projects\lab33\lab33\bin\Debug\lab33.exe
+c:\users\user\documents\visual studio 2017\Projects\lab33\lab33\bin\Debug\lab33.pdb
+c:\users\user\documents\visual studio 2017\Projects\lab33\lab33\obj\Debug\lab33.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\lab33\lab33\obj\Debug\lab33.exe
+c:\users\user\documents\visual studio 2017\Projects\lab33\lab33\obj\Debug\lab33.pdb
